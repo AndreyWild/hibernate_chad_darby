@@ -1,0 +1,8 @@
+# Project exclude paths
+/hb-01-one-to-one-uni/target/
+/hb-02-one-to-one-bi/target/
+/hb-03-one-to-many/target/
+/hb-04-one-to-many-uni/target/
+/hb-05-many-to-many/target/
+/hb-eager-vs-lazy-demo/target/
+/hibernate-example/target/
